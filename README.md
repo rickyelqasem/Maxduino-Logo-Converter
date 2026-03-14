@@ -6,7 +6,7 @@ Image must be 128x64 pixels and black-and-white monochrome
 Usage:
   logomake.exe -i imagefile.jpg -o logo_test.h -inv
   
-  logomake.exe -h
+logomake.exe -h
 
 Options:
   -i <path>    Input image file. Supported formats depend on Windows image codecs and include BMP, JPG, and PNG.

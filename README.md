@@ -17,4 +17,4 @@ Notes:
   - The input image must be exactly 128x64 pixels.
   - Output is vertical 1-bit-per-pixel byte data matching MaxDuino logo files.
   - Dark pixels become set bits; light or fully transparent pixels become cleared bits.
-  - With -inv, light pixels become set bits and dark pixels become cleared bits.
+  - With -inv, light pixels become set bits and dark pixels become cleared bits. You'll probably have to set this as a default. 

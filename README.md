@@ -9,10 +9,10 @@ logomake.exe -i imagefile.jpg -o logo_test.h -inv
 logomake.exe -h
 
 Options:
-  -i <path>    Input image file. Supported formats depend on Windows image codecs and include BMP, JPG, and PNG.
-  -o <path>    Output header/data file to create.
-  -inv         Invert the input colours before conversion.
-  -h           Show this help text.
+-i <path>    Input image file. Supported formats depend on Windows image codecs and include BMP, JPG, and PNG.
+-o <path>    Output header/data file to create.
+-inv         Invert the input colours before conversion.
+-h           Show this help text.
 
 Notes:
   - The input image must be exactly 128x64 pixels.
